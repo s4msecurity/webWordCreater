@@ -14,10 +14,14 @@ Find and convert word to wordlist between html tag in a website.<br>
   \ V  V /  __/ |_) \  /\  / (_) | | | (_| | |____| | |  __/ (_| | ||  __/ |
    \_/\_/ \___|_.__/ \/  \/ \___/|_|  \__,_|\_____|_|  \___|\__,_|\__\___|_|
 
-Enter to WEB Page for wordlist [For example: https://www.text.com]: enter_youre_website <br>
-Enter to which want you between html tag and html tag of finish for words [For example: p, body, div etc.]: enter_youre_html_tag
+Enter to WEB Page for wordlist [For example: https://www.text.com]:  <br>
+Enter to which want you between html tag and html tag of finish for words [For example: p, body, div etc.]: 
 [!] Starting create wordlist.txt 
 [+] Successfully Writed: 1795/1804
 [+] Wordlist Ready 
 
 </pre>
+
+<p>
+I did need it when CTF. And I wrote. The usually usage enough. It is did setting to UTF-8 and latin alphabet
+</p>
